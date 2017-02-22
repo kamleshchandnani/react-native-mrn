@@ -1,0 +1,14 @@
+{
+  /*"retainLines": true,
+  "compact": true,
+  "comments": false,
+  "sourceMaps": false,
+  "plugins": [
+    "transform-regenerator",
+    "syntax-flow"
+  ]
+  /*"presets": [
+    "react",
+    "es2015"
+  ]*/
+}
